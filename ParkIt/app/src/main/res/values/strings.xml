@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParkIt</string>
+    <string name="name_display_text">Name :</string>
+    <string name="please_enter_your_details_display_text">Please enter your details</string>
+    <string name="name_textview">Name</string>
+    <string name="phone_number_textview">Phone Number</string>
+    <string name="emailid_textview">EmailId</string>
+    <string name="please_enter_your_details_textview">Please enter your details</string>
+    <string name="register_button">Register</string>
+</resources>
